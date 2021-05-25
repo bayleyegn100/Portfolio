@@ -14,7 +14,7 @@
 I developed a static personal website by using React.js. It has my portfolio, about me, Experiance and contact information. 
 It will let my information to be avialabe online. 
 
-![Portfolio Page](./src/assets/img/Portfolio.jpg)
+![Portfolio Page](./src/assets/img/portfolio.jpg)
 
 ## Motivation 
 
