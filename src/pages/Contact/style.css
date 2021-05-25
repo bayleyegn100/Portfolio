@@ -1,0 +1,64 @@
+.contactSubheading {
+    text-align: center;
+}
+
+.contactCard {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFFBFC;
+}
+.iconRow {
+    justify-content: space-evenly;
+}
+
+.iconCard {
+    justify-content: center;
+    text-align: center;
+    background-color: #580f0a;;
+    max-width: 125px;
+    max-height: 100px;
+    padding: 0px;
+}
+
+.fa-linkedin {
+  
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.githubContactLink {
+    color:white;
+   
+    width: 100px;
+    height: 100px;
+}
+
+.twitterContactLink {
+    color:white;
+    
+    width: 100px;
+    height: 100px;
+}
+
+.fa-envelope-o {
+   
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.fa-phone {
+    
+    color: white;
+    width: 100px;
+    height: 100px;
+}
+
+.fa-link {
+    color: white;
+}
+
+/* .resumeLink {
+    color: #156064;;
+} */

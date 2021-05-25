@@ -1,0 +1,36 @@
+.portfolioCard {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.projectCard {
+    background-color:#580f0a;
+    width: 25rem;
+}
+
+.portfolioText {
+    color: white;
+}
+
+.portImg {
+    width: 358px;
+    height: 180px;
+}
+
+.fa-github {
+    color: white;
+}
+
+.fa-link {
+    color: white;
+}
+
+@media screen and (max-width: 430px) {
+    .portImg {
+        width: 70vw;
+        height: 35vw;
+    }
+    .projectCard {
+        width: 80vw;
+    }
+  }

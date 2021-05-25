@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #FFFBFC;
+}
+
+.dropdownButton {
+    background-color: #156064;
+    color: white;
+}
+.dropdownIcon {
+    color: white;
+}
+.navbar-brand {
+    float: left;
+    background-color: #156064;
+    padding: 1vw;
+    margin-right: 0px;
+    border-radius: .25rem;
+}
+
+.navbar-name {
+    color: white;
+    margin-bottom: 0px;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+a.navlink {
+    font-size: 20px;
+    color: #156064;
+}

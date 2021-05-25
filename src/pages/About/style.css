@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+body{
+    background-color: #0dd8df;
+}
+
+article {
+
+  background-color:white;
+ 
+}
+.facts {
+text-align: center;
+}
+p {
+  font-size: 20px; 
+  line-height: 1.5; 
+  font-display: justified;
+}
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.fa {
+  font-size: 30px;
+  width: 40px;
+   text-align: center;
+  text-decoration: none;
+  border-radius: 25%;
+  margin-left: 5%;
+}
+.icon-bar {
+  position: fixed;
+  top: 40%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+ 
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 3px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+  border-radius:1rem
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color:rgb(47, 10, 214);
+  opacity: 0.7;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: rgb(28, 228, 9);
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.github {
+  /* background: #81c07b; */
+  color: white;
+}
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+.email {
+  background-color:rgb(188, 221, 42);
+  color: white;
+
+}
+.techList {
+ 
+  padding-left: 100px;
+}
+
+
