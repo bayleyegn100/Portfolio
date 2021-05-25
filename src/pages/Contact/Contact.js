@@ -12,7 +12,7 @@ function Contact() {
             </div>
             <div className="row iconRow">
             <div className="card col-6 iconCard">
-                    <a href="mailto:coletta.bayleyegn100@gmail.com" target="_blank" rel="noreferrer"><span
+                    <a href="mailto:bayleyegn100@gmail.com" target="_blank" rel="noreferrer"><span
                             className="fa fa-envelope-o fa-5x"></span></a>
                 </div>
                 <div className="card col-6 iconCard">
