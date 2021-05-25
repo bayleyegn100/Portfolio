@@ -8,7 +8,7 @@ function Contact() {
                 <h2>Contact</h2>
             </div>
             <div>
-            <h5 className="card-body contactSubheading">Feel free to to reach me.</h5>
+            <h5 className="card-body contactSubheading">Feel free to to reach me out.</h5>
             </div>
             <div className="row iconRow">
             <div className="card col-6 iconCard">
