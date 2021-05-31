@@ -14,7 +14,7 @@ function About() {
         
           <img src={myPhoto} className="float-left mr-3"  alt="Debasu B Eyasu."></img>
           <a href="mailto:someone@example.com">bayleyegn100@gmail.com</a> | Phone: +1-206-785-5195 | 
-          {" "} <a  href={resume} className="resumeLink" target="_blank" rel="noreferrer" >Resume</a>{" | "}
+          {" "} <a  href={resume} className="resumeLink" >Resume</a>{" | "}
         <a href="https://github.com/bayleyegn100"> Github Page | </a>
         <a href="https://www.linkedin.com/in/debasu-bayleyegn-eyasu-a9105ba5/"> Linkedin </a>
           <p className="font-size: 20px; line-height: 2; ">
